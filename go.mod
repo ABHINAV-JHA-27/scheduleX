@@ -3,6 +3,7 @@ module github.com/ABHINAV-JHA-27/scheduleX
 go 1.25.1
 
 require (
+	github.com/mattn/go-sqlite3 v1.14.32
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.21.0
 )
